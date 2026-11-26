@@ -75,3 +75,7 @@ python3 -m unittest discover -s server
 ## 许可证
 
 项目自有原创代码采用 [Apache-2.0](LICENSE)。小智上游源码保留 [MIT](firmware/xiaozhi-esp32/LICENSE)，Poki 组件保留 [AGPL-3.0-only](app/骑士Knight-iOS/KnightApp/PokiNative/LICENSE)。分发链接 Poki 的 iOS 调试版时，需遵守 AGPL 对组合程序的要求。高德 SDK 由官方按其许可提供。详见 [NOTICE](NOTICE)。
+
+## 协作与仓库说明
+
+本仓库为 `think2do` 组织下的项目仓库，由 [@hxy940219220-collab](https://github.com/hxy940219220-collab) 与 [@206758633-sudo](https://github.com/206758633-sudo) 合作开发。
